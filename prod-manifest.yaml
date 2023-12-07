@@ -90,5 +90,5 @@ metadata:
   name: prod-stedi-josh-certificate # This needs to match line 68
 spec:
   domains:
-    - josh.cit262.com # This is a DNS record that has not been created yet - we need to create that first
+    - joshdalton.cit262.com # This is a DNS record that has not been created yet - we need to create that first
     
